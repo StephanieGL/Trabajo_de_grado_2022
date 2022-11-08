@@ -1,0 +1,6 @@
+id,age_years,tipo_ganado,date_entrada,date_nacimiento,peso_kg,raza
+10001,5,bovino,20/10/2022,15/01/2017,710,Gyrolando
+10002,4,bovino,20/10/2022,10/03/2018,650,Gyrolando
+10003,5,bovino,20/10/2022,05/02/2017,720,Gyrolando
+10004,2,bovino,20/10/2022,01/08/2020,480,Gyrolando
+10005,1,bovino,20/10/2022,22/05/2021,380,Gyrolando
